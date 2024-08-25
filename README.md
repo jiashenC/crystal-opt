@@ -30,5 +30,5 @@ make bin/ssb/q11
 Paper
 ----
 GPU Database Systems Characterization and Optimization VLDB'24  
-Jiashen Cao, Rathijit Sen, Matteo Interlandi, Joy Arulraj, Hyesoon Kim
+Jiashen Cao, Rathijit Sen, Matteo Interlandi, Joy Arulraj, Hyesoon Kim  
 https://dl.acm.org/doi/pdf/10.14778/3632093.3632107
