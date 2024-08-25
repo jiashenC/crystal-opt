@@ -27,3 +27,7 @@ make bin/ssb/q11
 ./bin/ssb/q11
 ```
 
+Paper
+----
+GPU Database Systems Characterization and Optimization VLDB'24
+Jiashen Cao, Rathijit Sen, Matteo Interlandi, Joy Arulraj, Hyesoon Kim
